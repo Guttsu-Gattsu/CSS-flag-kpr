@@ -1,0 +1,22 @@
+.flag > .eagle {
+    position: relative;
+    top: 155px;
+    left: 200px;
+}
+
+.flag {
+    position: absolute;
+    background: black;
+    height: 600px;
+    width: 900px;
+}
+
+.flag > .white-bar {
+    position: absolute;
+    background: white;
+    top: 140px;
+    height: 330px;
+    width: 900px;
+}
+
+
